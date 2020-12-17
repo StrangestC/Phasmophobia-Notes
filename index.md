@@ -28,6 +28,7 @@
 - If the target leaves the dies, a new target will be chosen
 - A banshee's chosen target will be the highest player on the player list who is currently alive
 - Crucifixes have higher radii when dealing with a Banshee (they _might_ also decrease Banshee activity)
+- Can hunt at any sanity if active enough
 - Ability: Will move to target's position and wait 20 seconds. If Banshee doesn't see its target during or after navigation, it will start a hunt (only happens if target is inside)
 
 ### Jinn
